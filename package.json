@@ -1,4 +1,22 @@
 {
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "1. [Title](#Title)\r   2. [Criteria](#Criteria)\r   3. [Description](#Description)\r   4. [Installation](#Installation)\r   5. [Usage](#Usage)\r   6. [Links](#Links)\r   7. [License](#License)\r   8. [Contribution](#Contribution)\r   9. [Tests](#Tests)\r   10. [Github](#Github)\r   11. [E-mail](#Email)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melakusheri/Tech-Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melakusheri/Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/melakusheri/Tech-Blog#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.2",

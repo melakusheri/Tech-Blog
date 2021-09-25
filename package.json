@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express-handlebars": "^5.3.4",
+    "install": "^0.13.0",
+    "mysql2": "^2.3.0"
+  }
+}
